@@ -1,83 +1,113 @@
 <div align="center">
 
-# `ANUSHKA.EXE`
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=ANUSHKA.EXE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2400&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=INITIALIZING+PLAYER...;COMPUTER+SCIENCE+%7C+THIRD+YEAR;GAMES+%E2%80%A2+MUSIC+%E2%80%A2+BOOKS+%E2%80%A2+WEB;PRESS+START+%E2%96%B6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2200&pause=800&color=D8B4FE&center=true&vCenter=true&width=750&lines=INITIALIZING+PLAYER...;GAMES+%E2%80%A2+MUSIC+%E2%80%A2+BOOKS+%E2%80%A2+WEB;PRESS+START+%E2%96%B6" />
 
 <br>
 
-```text
-╔════════════════════════════════════════╗
-║                                        ║
-║           PLAYER : ANUSHKA             ║
-║           CLASS  : COMPUTER SCIENCE    ║
-║           LEVEL  : THIRD YEAR          ║
-║           MODE   : BUILDING            ║
-║                                        ║
-║              > START GAME              ║
-║                EXIT                    ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
-
-`games • music • books • web • code`
-
-</div>
-
----
-
-## `> PLAYER PROFILE`
-
 <table>
 <tr>
-<td width="72%">
-
-```console
-anushka@github:~$ whoami
-
-CS student building across games, music,
-books and the web.
-
-I like taking ideas beyond the concept stage —
-designing them, building them and figuring out
-the problems along the way.
-```
+<td width="62%" align="center">
 
 ```text
-CURRENT       Book App • Music Project
-INTERESTS     Web • Games • Music • Creative Development
-FOCUS         Build • Learn • Refine
-SOUNDTRACK    Like Crazy — Jimin
+╔══════════════════════════════════════╗
+║                                      ║
+║        PLAYER : ANUSHKA              ║
+║        CLASS  : COMPUTER SCIENCE     ║
+║        LEVEL  : THIRD YEAR           ║
+║        MODE   : BUILDING             ║
+║                                      ║
+║             > START GAME             ║
+║               EXIT                   ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
 
-<td width="28%" align="center">
+<td width="38%" align="center">
 
-<img src="./assets/player-girl.png" width="150" alt="Pixel Player" />
+<img src="./assets/pixel-girl.jpeg" width="190" alt="Pixel Anushka">
 
-`PLAYER 01`
+<br>
+
+<code>PLAYER_01</code>
 
 </td>
 </tr>
 </table>
 
+<code>games • music • books • web • code</code>
+
+</div>
+
 ---
 
-## `> PLAYER STATS`
+## `> PLAYER_PROFILE.EXE`
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+```console
+anushka@github:~$ whoami
+
+CS student building across games,
+music, books and the web.
+
+I like taking ideas past the concept stage —
+designing them, building them and figuring
+things out along the way.
+```
 
 ```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║  PROBLEM SOLVING     █████████░          ║
-║  CREATIVITY          ██████████          ║
-║  ADAPTABILITY        █████████░          ║
-║  LEADERSHIP          █████████░          ║
-║  PRESENTATION        █████████░          ║
-║  PERSISTENCE         ██████████          ║
-║                                          ║
-╚══════════════════════════════════════════╝
+CURRENT      Book App • Music Project
+
+INTERESTS    Web • Games • Music
+             Creative Development
+
+FOCUS        Build • Learn • Refine
+
+PLAYING      Like Crazy — Jimin
 ```
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/shinobu.gif width="260" alt="Shinobu">
+
+<br>
+
+<code>SHINOBU.exe</code>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `> PLAYER_STATS`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   PROBLEM SOLVING     █████████░   90%       ║
+║   CREATIVITY          ██████████   100%      ║
+║   ADAPTABILITY        █████████░   90%       ║
+║   LEADERSHIP          █████████░   90%       ║
+║   PRESENTATION        █████████░   90%       ║
+║   PERSISTENCE         ██████████   100%      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -85,33 +115,25 @@ SOUNDTRACK    Like Crazy — Jimin
 
 <div align="center">
 
-**LANGUAGES**
+### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Python, Java, C++, JavaScript" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark">
 
-<br><br>
+### `FRONTEND`
 
-**FRONTEND**
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="Frontend Technologies" />
+### `BACKEND`
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark">
 
-**BACKEND**
+### `DATABASES`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark">
 
-<br><br>
+### `TOOLS`
 
-**DATABASES**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
-
-<br><br>
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark">
 
 <br><br>
 
@@ -121,99 +143,97 @@ SOUNDTRACK    Like Crazy — Jimin
 
 ---
 
-## `> QUEST LOG`
+## `> QUEST_LOG`
 
-### COMPLETED
+```text
+┌──────────────────────────────────────────────────────────┐
+│ PROJECT                      TYPE                STATUS   │
+├──────────────────────────────────────────────────────────┤
+│ WAR                          Card Game           COMPLETE │
+│ BLACKJACK                    Card Game           COMPLETE │
+│ JACKERS                      Original Concept    ORIGINAL │
+│ MUSIC LYRICS                 Music Project       COMPLETE │
+│ COACHING MANAGEMENT SYSTEM   Web Application     COMPLETE │
+│ CONTACT MANAGER              Backend / API       COMPLETE │
+│ FLASK TODO                   Web Application     COMPLETE │
+│ ROCK PAPER SCISSORS          Game                COMPLETE │
+└──────────────────────────────────────────────────────────┘
+```
 
-| PROJECT | TYPE | STATUS |
-| :--- | :--- | :---: |
-| **War** | Card Game | `COMPLETE` |
-| **Blackjack** | Card Game | `COMPLETE` |
-| **Jackers** | Original Game Concept | `ORIGINAL` |
-| **Music Lyrics** | Music Project | `COMPLETE` |
-| **Coaching Management System** | Web Application | `COMPLETE` |
-| **Contact Manager** | Backend / API | `COMPLETE` |
-| **Flask Todo** | Web Application | `COMPLETE` |
-| **Rock Paper Scissors** | Game | `COMPLETE` |
+<sub>Some completed projects haven't made it to public repositories yet.</sub>
 
-> Some completed projects are not yet available as public repositories.
-
-### CURRENT
+### `CURRENT_QUESTS`
 
 ```text
 BOOK APP
-
-███████░░░    IN DEVELOPMENT
-
+██████████████░░░░░░     IN DEVELOPMENT
 
 MUSIC PROJECT
-
-█████░░░░░    IN DEVELOPMENT
+██████████░░░░░░░░░░     IN DEVELOPMENT
 ```
 
 ---
 
 <div align="center">
 
-## `> CARD GAMES.EXE`
+## `> CARD_GAMES.EXE`
 
 ```text
-          ♠                     ♥
-     ┌─────────┐           ┌─────────┐
-     │ A       │           │ J       │
-     │    ♠    │           │    ♥    │
-     │       A │           │       J │
-     └─────────┘           └─────────┘
-
-          WAR • BLACKJACK • JACKERS
+           ♠                         ♥
+      ┌─────────┐               ┌─────────┐
+      │ A       │               │ J       │
+      │    ♠    │               │    ♥    │
+      │       A │               │       J │
+      └─────────┘               └─────────┘
 
 
-        ┌────────────────────────┐
-        │    ORIGINAL CONCEPT    │
-        │                        │
-        │       J A C K E R S    │
-        │                        │
-        │       QUEST FOUND      │
-        └────────────────────────┘
+              WAR • BLACKJACK • JACKERS
+
+
+             ┌───────────────────────┐
+             │   ORIGINAL CONCEPT    │
+             │                       │
+             │      J A C K E R S    │
+             │                       │
+             │       UNLOCKED        │
+             └───────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `> CONTRIBUTION RUN`
+## `> CONTRIBUTION_RUN.EXE`
 
 <div align="center">
 
-<img src="./assets/chick-run.gif" width="100%" alt="Pixel Chick Contribution Run" />
+<img src="./assets/chick-run.gif" width="100%" alt="Contribution Run">
 
 <br>
 
-```text
-       [ SPACE ] JUMP        [ RUN ] BUILD        [ ESC ] —
-```
+`[ SPACE ] JUMP`　　`[ RUN ] BUILD`　　`[ OBJECTIVE ] DON'T HIT THE BUGS`
 
 </div>
 
 ---
 
-## `> PLAYER DATA`
+## `> PLAYER_DATA`
 
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Anushka-hiyu&show_icons=true&hide_border=true&theme=midnight-purple&rank_icon=github"
-alt="GitHub Stats" />
+src="https://github-readme-stats.vercel.app/api?username=Anushka-hiyu&show_icons=true&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&ring_color=A855F7"
+alt="GitHub Stats">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-hiyu&layout=compact&hide_border=true&theme=midnight-purple"
-alt="Top Languages" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-hiyu&layout=compact&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE"
+alt="Top Languages">
 
 <br>
 
 <img
-src="https://streak-stats.demolab.com?user=Anushka-hiyu&theme=midnight-purple&hide_border=true"
-alt="GitHub Streak" />
+src="https://streak-stats.demolab.com?user=Anushka-hiyu&hide_border=true&background=07050D&ring=A855F7&fire=A855F7&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=F3E8FF&sideNums=F3E8FF&dates=8B7A9E"
+alt="GitHub Streak">
 
 </div>
 
@@ -232,7 +252,7 @@ alt="GitHub Streak" />
 ║                   JIMIN                    ║
 ║                    FACE                    ║
 ║                                            ║
-║                ◀   ❚❚   ▶                 ║
+║                 ◀  ❚❚  ▶                  ║
 ║                                            ║
 ║          ━━━━━━━━━━━●━━━━━━━━━━            ║
 ║          02:14              03:32           ║
@@ -241,60 +261,66 @@ alt="GitHub Streak" />
 ```
 
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
-<img src="https://img.shields.io/badge/PLAY-LIKE_CRAZY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Like Crazy on Spotify" />
+<img src="https://img.shields.io/badge/PLAY-LIKE_CRAZY-A855F7?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://open.spotify.com/user/31g5ldsc5e36ymhujmg4t4gw43nu">
+<img src="https://img.shields.io/badge/OPEN_MY_SPOTIFY-120B1C?style=for-the-badge&logo=spotify&logoColor=D8B4FE">
 </a>
 
 </div>
 
 ---
 
-## `> ANIME INTERMISSION`
+## `> ANIME_INTERMISSION`
 
 <div align="center">
 
-<img src="./assets/shinobu-01.jpg" width="32%" alt="Shinobu 01" />
-<img src="./assets/shinobu-02.jpg" width="32%" alt="Shinobu 02" />
-<img src="./assets/shinobu-03.jpg" width="32%" alt="Shinobu 03" />
-
+<img src="./assets/dark-shinobu.gif" width="100%" alt="Shinobu">
 <br><br>
 
 ```text
-LOADING NEXT BUILD...
+SYSTEM://ANIME_MODE
 
-████████████████████ 100%
+████████████████████████████████ 100%
+
+                 LOADED.
 ```
 
 </div>
 
 ---
 
-## `> SAVE POINT`
+## `> SAVE_POINT`
 
 <div align="center">
 
 ```text
-                    *
-               *         *
 
-                 [ SAVE ]
+                  ✦       ✦
+                       ✦
 
-
-          PROGRESS SUCCESSFULLY SAVED.
+                    [ SAVE ]
 
 
-╔══════════════════════════════════════════╗
-║                                          ║
-║             CONTINUE CODING?             ║
-║                                          ║
-║                 > YES                    ║
-║                   NO                     ║
-║                                          ║
-╚══════════════════════════════════════════╝
+              PROGRESS SAVED.
 
 
-                 GAME SAVED
+        ╔════════════════════════════╗
+        ║                            ║
+        ║      CONTINUE CODING?      ║
+        ║                            ║
+        ║           > YES            ║
+        ║             NO             ║
+        ║                            ║
+        ╚════════════════════════════╝
+
+
+                   GAME SAVED
 ```
 
-`see you in the next commit.`
+`SYSTEM:// waiting for next commit...`
 
 </div>
