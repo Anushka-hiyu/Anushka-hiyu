@@ -50,7 +50,7 @@ COMPANION           → tiny chick
      figuring out the "why"
 
    CREATIVITY         ██████████
-     functionality 🤝 aesthetics
+     functionality + aesthetics
 
    ADAPTABILITY       █████████░
      learn → build → break → learn again
