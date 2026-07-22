@@ -239,36 +239,29 @@ alt="GitHub Streak">
 
 ---
 
-## `> SOUNDTRACK.EXE`
+## `07 // NOW PLAYING`
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║                NOW PLAYING                 ║
-║                                            ║
-║                LIKE CRAZY                  ║
-║                   JIMIN                    ║
-║                    FACE                    ║
-║                                            ║
-║                 ◀  ❚❚  ▶                  ║
-║                                            ║
-║          ━━━━━━━━━━━●━━━━━━━━━━            ║
-║          02:14              03:32           ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
-
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
-<img src="https://img.shields.io/badge/PLAY-LIKE_CRAZY-A855F7?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="./assets/soundtrack.svg" width="95%" alt="Like Crazy — Jimin">
 </a>
 
 <br><br>
 
-<a href="https://open.spotify.com/user/31g5ldsc5e36ymhujmg4t4gw43nu">
-<img src="https://img.shields.io/badge/OPEN_MY_SPOTIFY-120B1C?style=for-the-badge&logo=spotify&logoColor=D8B4FE">
+<a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
+  <img src="https://img.shields.io/badge/▶_PLAY_LIKE_CRAZY-A855F7?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Like Crazy">
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://open.spotify.com/user/31g5ldsc5e36ymhujmg4t4gw43nu">
+  <img src="https://img.shields.io/badge/OPEN_MY_SPOTIFY-120B1C?style=for-the-badge&logo=spotify&logoColor=D8B4FE" alt="My Spotify">
+</a>
+
+<br><br>
+
+<sub>♫ JIMIN // FACE // LIKE CRAZY</sub>
 
 </div>
 
