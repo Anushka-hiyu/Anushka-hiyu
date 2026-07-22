@@ -49,7 +49,7 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="67%" valign="middle">
 
 ```console
 anushka@github:~$ whoami
@@ -75,9 +75,9 @@ PLAYING      Like Crazy — Jimin
 
 </td>
 
-<td width="35%" align="center">
+<td width="33%" align="center" valign="middle">
 
-<img src="./assets/shinobu.gif width="260" alt="Shinobu">
+<img src="./assets/shinobu.gif" width="260" alt="Shinobu">
 
 <br>
 
