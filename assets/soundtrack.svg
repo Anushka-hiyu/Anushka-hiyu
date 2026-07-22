@@ -41,7 +41,7 @@ stroke="#5F3475"/>
   y="55"
   width="260"
   height="260"
-  perserveAspectRatio="xMidYMid slice"
+  preserveAspectRatio="xMidYMid slice"
   clip-path="url(#albumClip)"
 />
   <rect
@@ -52,7 +52,7 @@ stroke="#5F3475"/>
     rx="12"
     fill="none"
     stroke="#A855F7"
-    stroke-width-"2"
+    stroke-width="2"
     />
 
 <!-- player -->
