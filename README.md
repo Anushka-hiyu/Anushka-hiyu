@@ -146,9 +146,9 @@ PLAYING      Like Crazy — Jimin
 ## `> QUEST_LOG`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────-──┐
 │ PROJECT                      TYPE                STATUS   │
-├──────────────────────────────────────────────────────────┤
+├──────────────────────────────────────────────────────────-┤
 │ WAR                          Card Game           COMPLETE │
 │ BLACKJACK                    Card Game           COMPLETE │
 │ JACKERS                      Original Concept    ORIGINAL │
@@ -157,7 +157,7 @@ PLAYING      Like Crazy — Jimin
 │ CONTACT MANAGER              Backend / API       COMPLETE │
 │ FLASK TODO                   Web Application     COMPLETE │
 │ ROCK PAPER SCISSORS          Game                COMPLETE │
-└──────────────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────────-───┘
 ```
 
 <sub>Some completed projects haven't made it to public repositories yet.</sub>
