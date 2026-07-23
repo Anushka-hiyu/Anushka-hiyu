@@ -32,7 +32,7 @@
 
 ---
 
-## `> PLAYER_PROFILE.EXE`
+
 
 <table>
 <tr>
@@ -55,8 +55,6 @@ INTERESTS    Web • Games • Music
 <img src="./assets/shinobu.gif" width="100%" alt="Shinobu">
 
 <br>
-
-<code>SHINOBU.exe</code>
 
 </td>
 
