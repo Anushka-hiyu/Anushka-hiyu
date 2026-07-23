@@ -158,7 +158,7 @@ MUSIC PROJECT
 
 <br>
 
-`[ SPACE ] JUMP`　　`[ RUN ] BUILD`　　`[ OBJECTIVE ] DON'T HIT THE BUGS`
+<img src="./assets/chick-controls.svg" width="100%" alt="Game Controls">
 
 </div>
 
