@@ -150,7 +150,7 @@ MUSIC PROJECT
 
 ---
 
-## `> CONTRIBUTION_RUN.EXE`
+
 
 <div align="center">
 
@@ -224,35 +224,10 @@ SYSTEM://ANIME_MODE
 </div>
 
 ---
-
-## `> SAVE_POINT`
+<br>
 
 <div align="center">
 
-```text
-
-                  ✦       ✦
-                       ✦
-
-                    [ SAVE ]
-
-
-              PROGRESS SAVED.
-
-
-        ╔════════════════════════════╗
-        ║                            ║
-        ║      CONTINUE CODING?      ║
-        ║                            ║
-        ║           > YES            ║
-        ║             NO             ║
-        ║                            ║
-        ╚════════════════════════════╝
-
-
-                   GAME SAVED
-```
-
-`SYSTEM:// waiting for next commit...`
-
+<img src="./assets/save-point.svg" width="100%" alt="Save Point">
+  
 </div>
