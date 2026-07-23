@@ -102,7 +102,7 @@
 <br>
 
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
-  <img src="https://img.shields.io/badge/▶_PLAY_LIKE_CRAZY-A855F7?style=for-the-badge&logo=spotify&logoColor=white" alt="Play">
+  <img src="https://img.shields.io/badge/PLAY-A855F7?style=for-the-badge&logo=spotify&logoColor=white" alt="Play">
 </a>
 
 <a href="https://open.spotify.com/user/31g5ldsc5e36ymhujmg4t4gw43nu">
