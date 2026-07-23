@@ -8,37 +8,25 @@
 
 <table>
 <tr>
-<td width="62%" align="center">
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║        PLAYER : ANUSHKA              ║
-║        CLASS  : COMPUTER SCIENCE     ║
-║        LEVEL  : THIRD YEAR           ║
-║        MODE   : BUILDING             ║
-║                                      ║
-║             > START GAME             ║
-║               EXIT                   ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+<td width="67%" valign="middle">
+
+<img src="./assets/player-card.svg" width="100%" alt="Player Card">
 
 </td>
 
-<td width="38%" align="center">
+<td width="33%" align="center" valign="middle">
 
-<img src="./assets/pixel-girl.jpeg" width="150" alt="Pixel Anushka">
+<img src="./assets/pixel-girl.jpeg" width="145" alt="Pixel Anushka">
 
-<br>
+<br><br>
 
-<code>PLAYER_01</code>
+<code>PLAYER_01 // ONLINE</code>
 
 </td>
+
 </tr>
 </table>
-
-<code>games • music • books • web • code</code>
 
 </div>
 
