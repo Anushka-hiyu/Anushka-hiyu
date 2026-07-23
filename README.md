@@ -93,14 +93,13 @@
 
 <br>
 
-
 <div align="center">
 
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
   <img src="./assets/soundtrack.svg" width="100%" alt="Like Crazy — Jimin">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
   <img src="https://img.shields.io/badge/▶_PLAY_LIKE_CRAZY-A855F7?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Like Crazy">
@@ -110,11 +109,9 @@
   <img src="https://img.shields.io/badge/OPEN_MY_SPOTIFY-120B1C?style=for-the-badge&logo=spotify&logoColor=D8B4FE" alt="My Spotify">
 </a>
 
-<br><br>
+<br>
 
 </div>
-
-
 
 <br>
 
