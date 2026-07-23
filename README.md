@@ -64,42 +64,15 @@
 
 <br>
 
----
-
-## `> QUEST_LOG`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│ PROJECT                      TYPE                STATUS  │
-├──────────────────────────────────────────────────────────┤
-│ WAR                          Card Game           COMPLETE│
-│ BLACKJACK                    Card Game           COMPLETE│
-│ JACKERS                      Original Concept    ORIGINAL│
-│ MUSIC LYRICS                 Music Project       COMPLETE│
-│ COACHING MANAGEMENT SYSTEM   Web Application     COMPLETE│
-│ CONTACT MANAGER              Backend / API       COMPLETE│
-│ FLASK TODO                   Web Application     COMPLETE│
-│ ROCK PAPER SCISSORS          Game                COMPLETE│
-└──────────────────────────────────────────────────────────┘
-```
-
-<sub>Some completed projects haven't made it to public repositories yet.</sub>
-
-### `CURRENT_QUESTS`
-
-```text
-BOOK APP
-██████████████░░░░░░     IN DEVELOPMENT
-
-MUSIC PROJECT
-██████████░░░░░░░░░░     IN DEVELOPMENT
-```
-
----
-
 <div align="center">
 
-## `> CARD_GAMES.EXE`
+<img src="./assets/quests.svg" width="100%" alt="Project Quests"  />
+  
+</div>
+
+<br>
+
+## `> CARD_GAMES.EXE
 
 <img src="./assets/cards.svg" width="100%" alt="Card Games: War, BlackJack and Jackers"> 
 </div>
