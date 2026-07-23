@@ -1,0 +1,272 @@
+<svg
+  width="760"
+  height="260"
+  viewBox="0 0 760 260"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0712"/>
+      <stop offset="55%" stop-color="#08040D"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- BACKGROUND -->
+
+  <rect
+    x="1"
+    y="1"
+    width="758"
+    height="258"
+    rx="14"
+    fill="url(#panelBg)"
+    stroke="#A855F7"
+    stroke-width="2"
+  />
+
+  <rect
+    x="10"
+    y="10"
+    width="740"
+    height="240"
+    rx="10"
+    fill="none"
+    stroke="#5F3475"
+    stroke-width="1"
+    opacity="0.45"
+  />
+
+
+  <!-- TERMINAL DOTS -->
+
+  <circle cx="28" cy="28" r="4" fill="#A855F7"/>
+  <circle cx="44" cy="28" r="4" fill="#D8B4FE" opacity="0.75"/>
+  <circle cx="60" cy="28" r="4" fill="#76558C"/>
+
+
+  <!-- TERMINAL LABEL -->
+
+  <text
+    x="380"
+    y="32"
+    text-anchor="middle"
+    fill="#76558C"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+    letter-spacing="2"
+  >
+    PLAYER // ABOUT
+  </text>
+
+
+  <!-- DIVIDER -->
+
+  <line
+    x1="22"
+    y1="48"
+    x2="738"
+    y2="48"
+    stroke="#24132F"
+    stroke-width="1"
+  />
+
+
+  <!-- COMMAND -->
+
+  <text
+    x="38"
+    y="82"
+    fill="#A855F7"
+    font-family="monospace"
+    font-size="14"
+    font-weight="bold"
+    filter="url(#softGlow)"
+  >
+    $
+  </text>
+
+  <text
+    x="58"
+    y="82"
+    fill="#F3E8FF"
+    font-family="monospace"
+    font-size="14"
+    font-weight="bold"
+  >
+    whoami
+  </text>
+
+
+  <!-- DESCRIPTION -->
+
+  <text
+    x="38"
+    y="120"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="13"
+  >
+    CS student building whatever catches my interest —
+  </text>
+
+  <text
+    x="38"
+    y="143"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="13"
+  >
+    games, music, books and the web.
+  </text>
+
+
+  <!-- INTEREST TAGS -->
+
+  <rect
+    x="38"
+    y="174"
+    width="75"
+    height="28"
+    rx="5"
+    fill="#12091A"
+    stroke="#A855F7"
+  />
+
+  <text
+    x="75.5"
+    y="192"
+    text-anchor="middle"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+  >
+    WEB
+  </text>
+
+
+  <rect
+    x="123"
+    y="174"
+    width="82"
+    height="28"
+    rx="5"
+    fill="#12091A"
+    stroke="#A855F7"
+  />
+
+  <text
+    x="164"
+    y="192"
+    text-anchor="middle"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+  >
+    GAMES
+  </text>
+
+
+  <rect
+    x="215"
+    y="174"
+    width="82"
+    height="28"
+    rx="5"
+    fill="#12091A"
+    stroke="#A855F7"
+  />
+
+  <text
+    x="256"
+    y="192"
+    text-anchor="middle"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+  >
+    MUSIC
+  </text>
+
+
+  <rect
+    x="307"
+    y="174"
+    width="145"
+    height="28"
+    rx="5"
+    fill="#12091A"
+    stroke="#A855F7"
+  />
+
+  <text
+    x="379.5"
+    y="192"
+    text-anchor="middle"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+  >
+    CREATIVE DEV
+  </text>
+
+
+  <!-- BOTTOM STATUS -->
+
+  <circle
+    cx="40"
+    cy="228"
+    r="3"
+    fill="#A855F7"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="52"
+    y="232"
+    fill="#76558C"
+    font-family="monospace"
+    font-size="9"
+    letter-spacing="1"
+  >
+    BUILD // EXPERIMENT // REPEAT
+  </text>
+
+
+  <text
+    x="720"
+    y="232"
+    text-anchor="end"
+    fill="#5F3475"
+    font-family="monospace"
+    font-size="9"
+  >
+    STATUS://ACTIVE
+  </text>
+
+</svg>
