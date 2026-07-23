@@ -1,0 +1,35 @@
+<svg
+  width="850"
+  height="18"
+  viewBox="0 0 850 18"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <rect width="850" height="18" fill="#050308"/>
+
+  <!-- bottom border -->
+  <path
+    d="M12 1
+       V8
+       Q12 16 20 16
+       H830
+       Q838 16 838 8
+       V1"
+    fill="none"
+    stroke="#A855F7"
+    stroke-width="2"
+  />
+
+  <!-- subtle inner glow -->
+  <path
+    d="M15 1
+       V7
+       Q15 13 21 13
+       H829
+       Q835 13 835 7
+       V1"
+    fill="none"
+    stroke="#D8B4FE"
+    stroke-width="1"
+    opacity="0.25"
+  />
+</svg>
