@@ -53,26 +53,13 @@
 
 ```console
 anushka@github:~$ whoami
-
 CS student building across games,
-music, books and the web.
-
-I like taking ideas past the concept stage —
-designing them, building them and figuring
-things out along the way.
+music, books., the web.. whatever I like..
 ```
-
 ```text
-CURRENT      Book App • Music Project
-
 INTERESTS    Web • Games • Music
              Creative Development
-
-FOCUS        Build • Learn • Refine
-
-PLAYING      Like Crazy — Jimin
 ```
-
 </td>
 
 <td width="33%" align="center" valign="middle">
@@ -90,26 +77,6 @@ PLAYING      Like Crazy — Jimin
 
 ---
 
-## `> PLAYER_STATS`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   PROBLEM SOLVING     █████████░   90%       ║
-║   CREATIVITY          ██████████   100%      ║
-║   ADAPTABILITY        █████████░   90%       ║
-║   LEADERSHIP          █████████░   90%       ║
-║   PRESENTATION        █████████░   90%       ║
-║   PERSISTENCE         ██████████   100%      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 ## `> INVENTORY`
 
@@ -208,12 +175,6 @@ alt="GitHub Stats">
 <img width="37%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-hiyu&layout=compact&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE"
 alt="Top Languages">
-
-<br>
-
-<img width="70%"
-src="https://streak-stats.demolab.com?user=Anushka-hiyu&hide_border=true&background=07050D&ring=A855F7&fire=A855F7&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=F3E8FF&sideNums=F3E8FF&dates=8B7A9E"
-alt="GitHub Streak">
 
 </div>
 
