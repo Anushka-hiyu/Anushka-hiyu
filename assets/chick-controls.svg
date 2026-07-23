@@ -1,8 +1,18 @@
-
-<svg width="850" height="72" viewBox="0 0 850 72"
-     xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="1200"
+  height="105"
+  viewBox="0 0 1200 105"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
   <defs>
+
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0712"/>
+      <stop offset="55%" stop-color="#08040D"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+
     <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
       <feGaussianBlur stdDeviation="2" result="blur"/>
       <feMerge>
@@ -10,86 +20,111 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
   </defs>
 
-  <rect width="850" height="72" rx="9" fill="#050308"/>
 
-  <rect
-    x="1"
-    y="1"
-    width="848"
-    height="70"
-    rx="9"
-    fill="none"
-    stroke="#3D2050"
+  <!-- PANEL BACKGROUND -->
+
+  <path
+    d="
+      M 2 0
+      L 1198 0
+      L 1198 87
+      Q 1198 103 1182 103
+      L 18 103
+      Q 2 103 2 87
+      Z
+    "
+    fill="url(#panelBg)"
+    stroke="#A855F7"
+    stroke-width="2"
   />
 
-  <!-- SPACE -->
+
+  <!-- TOP DIVIDER -->
+
+  <line
+    x1="18"
+    y1="1"
+    x2="1182"
+    y2="1"
+    stroke="#5F3475"
+    stroke-width="1"
+    opacity="0.65"
+  />
+
+
+  <!-- SPACE KEY -->
 
   <rect
-    x="35"
-    y="19"
-    width="100"
-    height="34"
-    rx="4"
-    fill="#0D0712"
+    x="65"
+    y="30"
+    width="135"
+    height="43"
+    rx="5"
+    fill="#12091A"
     stroke="#A855F7"
+    stroke-width="1.5"
   />
 
   <text
-    x="85"
-    y="41"
+    x="132.5"
+    y="57"
     text-anchor="middle"
     fill="#F3E8FF"
     font-family="monospace"
-    font-size="12"
+    font-size="14"
     font-weight="bold"
   >
     SPACE
   </text>
 
   <text
-    x="150"
-    y="41"
+    x="220"
+    y="58"
     fill="#D8B4FE"
     font-family="monospace"
-    font-size="12"
+    font-size="13"
+    font-weight="bold"
     letter-spacing="1"
   >
     JUMP
   </text>
 
 
-  <!-- RUN -->
+  <!-- RUN KEY -->
 
   <rect
-    x="290"
-    y="19"
-    width="78"
-    height="34"
-    rx="4"
-    fill="#0D0712"
+    x="390"
+    y="30"
+    width="105"
+    height="43"
+    rx="5"
+    fill="#12091A"
     stroke="#A855F7"
+    stroke-width="1.5"
   />
 
   <text
-    x="329"
-    y="41"
+    x="442.5"
+    y="57"
     text-anchor="middle"
     fill="#F3E8FF"
     font-family="monospace"
-    font-size="12"
+    font-size="14"
     font-weight="bold"
   >
     RUN
   </text>
 
   <text
-    x="383"
-    y="41"
+    x="515"
+    y="58"
     fill="#D8B4FE"
     font-family="monospace"
-    font-size="12"
+    font-size="13"
+    font-weight="bold"
     letter-spacing="1"
   >
     BUILD
@@ -98,28 +133,71 @@
 
   <!-- OBJECTIVE -->
 
+  <circle
+    cx="750"
+    cy="38"
+    r="3"
+    fill="#A855F7"
+    filter="url(#glow)"
+  />
+
   <text
-    x="555"
-    y="31"
+    x="765"
+    y="41"
     fill="#76558C"
     font-family="monospace"
-    font-size="9"
-    letter-spacing="1"
+    font-size="10"
+    font-weight="bold"
+    letter-spacing="2"
   >
     OBJECTIVE
   </text>
 
   <text
-    x="555"
-    y="48"
+    x="750"
+    y="65"
     fill="#A855F7"
     font-family="monospace"
-    font-size="11"
+    font-size="13"
     font-weight="bold"
     letter-spacing="1"
     filter="url(#glow)"
   >
     DON'T HIT THE BUGS
+  </text>
+
+
+  <!-- STATUS -->
+
+  <circle
+    cx="1090"
+    cy="40"
+    r="3"
+    fill="#A855F7"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="1103"
+    y="44"
+    fill="#76558C"
+    font-family="monospace"
+    font-size="9"
+    font-weight="bold"
+  >
+    LIVE
+  </text>
+
+  <text
+    x="1135"
+    y="66"
+    text-anchor="end"
+    fill="#5F3475"
+    font-family="monospace"
+    font-size="9"
+    letter-spacing="1"
+  >
+    RUN://ACTIVE
   </text>
 
 </svg>
