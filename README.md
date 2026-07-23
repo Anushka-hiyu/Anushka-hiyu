@@ -72,7 +72,6 @@
 
 <br>
 
-## `> CARD_GAMES.EXE
 
 <img src="./assets/cards.svg" width="100%" alt="Card Games: War, BlackJack and Jackers"> 
 </div>
@@ -83,9 +82,6 @@
 <div align="center">
 
 <img src="./assets/chick-run.gif" width="100%" alt="Contribution Run">
-
-<br>
-
 <img src="./assets/chick-controls.svg" width="100%" alt="Game Controls">
 
 </div>
