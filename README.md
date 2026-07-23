@@ -72,11 +72,12 @@
 
 <br>
 
+<div align="center">
 
 <img src="./assets/cards.svg" width="100%" alt="Card Games: War, BlackJack and Jackers"> 
 </div>
 
----
+<br>
 
 
 <div align="center">
@@ -88,7 +89,13 @@
 
 <br>
 
+<div align="center">
 
+<img src="./assets/github-stats.svg" width="100%" />
+  
+</div>
+
+<br>
 
 
 ## `07 // NOW PLAYING`
@@ -115,7 +122,7 @@
 
 </div>
 
----
+
 
 ## `> ANIME_INTERMISSION`
 
@@ -130,7 +137,7 @@ SYSTEM://ANIME_MODE
 ████████████████████████████████ 100%
 
                  LOADED.
-```
+
 
 </div>
 
