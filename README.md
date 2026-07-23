@@ -52,36 +52,17 @@
 
 <br>
 
-
-## `> INVENTORY`
-
 <div align="center">
 
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark">
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark">
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark">
-
-### `DATABASES`
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark">
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark">
+<img src="./assets/inventory.svg" width="100%" alt="Player Loadout">
 
 <br><br>
 
-`[ INVENTORY SAVED ]`
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,bootstrap,tailwind,nodejs,express,flask,postgres,mongodb,mysql,git,github,vscode,vite&theme=dark" alt="Tech Stack">
 
 </div>
+
+<br>
 
 ---
 
