@@ -91,8 +91,8 @@
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" width="100%" />
-  
+<img src="./assets/player-data.svg" width="100%" alt="GitHub Player Record">
+
 </div>
 
 <br>
