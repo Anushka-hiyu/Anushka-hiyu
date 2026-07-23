@@ -37,22 +37,7 @@
 
 <td width="67%" valign="middle">
 
-<code>$ whoami</code>
-
-<br><br>
-
-CS student building whatever catches my interest - games, music, books and the web.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WEB-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
-<img src="https://img.shields.io/badge/GAMES-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
-<img src="https://img.shields.io/badge/MUSIC-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
-<img src="https://img.shields.io/badge/CREATIVE_DEV-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
-
-<br><br>
-
-<sub>currently building // experimenting // figuring things out</sub>
+<img src="./assets/whoami.svg" width="100%">
 
 </td>
 
