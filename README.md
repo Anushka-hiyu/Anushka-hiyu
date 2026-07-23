@@ -120,28 +120,18 @@
 
 
 
-## `> ANIME_INTERMISSION`
+<br>
 
 <div align="center">
 
-<img src="./assets/dark-shinobu.gif" width="100%" alt="Shinobu">
-<br><br>
-
-```text
-SYSTEM://ANIME_MODE
-
-████████████████████████████████ 100%
-
-                 LOADED.
-
+<img src="./assets/dark-shinobu.gif" width="100%" alt="Anime Intermission">
 
 </div>
 
----
 <br>
 
 <div align="center">
 
 <img src="./assets/save-point.svg" width="100%" alt="Save Point">
-  
+
 </div>
