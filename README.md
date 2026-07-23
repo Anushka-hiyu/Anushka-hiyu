@@ -17,11 +17,7 @@
 
 <td width="33%" align="center" valign="middle">
 
-<img src="./assets/pixel-girl.jpeg" width="145" alt="Pixel Anushka">
-
-<br><br>
-
-<code>ANUSHKA</code>
+<img src="./assets/pixel-girl.jpeg" width="215" />
 
 </td>
 
@@ -124,11 +120,11 @@
 
 <div align="center">
 
-<img src="./assets/purple-line.svg" width="100%">
+<img src="./assets/shinobu-top.svg" width="100%">
 
-<img src="./assets/shinobu-banner.gif" width="100%">
+<img src="./assets/shinobu-banner.gif" width="97%">
 
-<img src="./assets/purple-line.svg" width="100%">
+<img src="./assets/shinobu-bottom.svg" width="100%">
 
 </div>
 
