@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="./assets/dark-shinobu.gif" width="100%" alt="Anime Intermission">
+<img src="./assets/shinobu-banner.gif" width="100%" alt="Anime Intermission">
 
 </div>
 
