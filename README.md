@@ -87,23 +87,9 @@
 </div>
 
 <br>
----
 
-## `> PLAYER_DATA`
 
-<div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Anushka-hiyu&show_icons=true&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&ring_color=A855F7"
-alt="GitHub Stats">
-
-<img width="37%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-hiyu&layout=compact&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE"
-alt="Top Languages">
-
-</div>
-
----
 
 ## `07 // NOW PLAYING`
 
