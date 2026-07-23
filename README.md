@@ -98,12 +98,10 @@
 <br>
 
 
-## `07 // NOW PLAYING`
-
 <div align="center">
 
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
-  <img src="./assets/soundtrack.svg" width="95%" alt="Like Crazy — Jimin">
+  <img src="./assets/soundtrack.svg" width="100%" alt="Like Crazy — Jimin">
 </a>
 
 <br><br>
@@ -117,8 +115,6 @@
 </a>
 
 <br><br>
-
-<sub>♫ JIMIN // FACE // LIKE CRAZY</sub>
 
 </div>
 
