@@ -82,12 +82,15 @@
 
 <div align="center">
 
-<img src="./assets/chick-widget.svg" width="100%" alt="Contribution Run">
+<img src="./assets/chick-run.gif" width="100%" alt="Contribution Run">
+
+<br>
+
+<img src="./assets/chick-controls.svg" width="100%" alt="Game Controls">
 
 </div>
 
 <br>
-
 ---
 
 ## `> PLAYER_DATA`
