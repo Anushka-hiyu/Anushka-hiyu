@@ -28,7 +28,7 @@
 
 <td width="38%" align="center">
 
-<img src="./assets/pixel-girl.jpeg" width="190" alt="Pixel Anushka">
+<img src="./assets/pixel-girl.jpeg" width="150" alt="Pixel Anushka">
 
 <br>
 
@@ -77,7 +77,7 @@ PLAYING      Like Crazy — Jimin
 
 <td width="33%" align="center" valign="middle">
 
-<img src="./assets/shinobu.gif" width="260" alt="Shinobu">
+<img src="./assets/shinobu.gif" width="100%" alt="Shinobu">
 
 <br>
 
@@ -146,18 +146,18 @@ PLAYING      Like Crazy — Jimin
 ## `> QUEST_LOG`
 
 ```text
-┌────────────────────────────────────────────────────────-──┐
-│ PROJECT                      TYPE                STATUS   │
-├──────────────────────────────────────────────────────────-┤
-│ WAR                          Card Game           COMPLETE │
-│ BLACKJACK                    Card Game           COMPLETE │
-│ JACKERS                      Original Concept    ORIGINAL │
-│ MUSIC LYRICS                 Music Project       COMPLETE │
-│ COACHING MANAGEMENT SYSTEM   Web Application     COMPLETE │
-│ CONTACT MANAGER              Backend / API       COMPLETE │
-│ FLASK TODO                   Web Application     COMPLETE │
-│ ROCK PAPER SCISSORS          Game                COMPLETE │
-└───────────────────────────────────────────────────────-───┘
+┌──────────────────────────────────────────────────────────┐
+│ PROJECT                      TYPE                STATUS  │
+├──────────────────────────────────────────────────────────┤
+│ WAR                          Card Game           COMPLETE│
+│ BLACKJACK                    Card Game           COMPLETE│
+│ JACKERS                      Original Concept    ORIGINAL│
+│ MUSIC LYRICS                 Music Project       COMPLETE│
+│ COACHING MANAGEMENT SYSTEM   Web Application     COMPLETE│
+│ CONTACT MANAGER              Backend / API       COMPLETE│
+│ FLASK TODO                   Web Application     COMPLETE│
+│ ROCK PAPER SCISSORS          Game                COMPLETE│
+└──────────────────────────────────────────────────────────┘
 ```
 
 <sub>Some completed projects haven't made it to public repositories yet.</sub>
@@ -178,27 +178,7 @@ MUSIC PROJECT
 
 ## `> CARD_GAMES.EXE`
 
-```text
-           ♠                         ♥
-      ┌─────────┐               ┌─────────┐
-      │ A       │               │ J       │
-      │    ♠    │               │    ♥    │
-      │       A │               │       J │
-      └─────────┘               └─────────┘
-
-
-              WAR • BLACKJACK • JACKERS
-
-
-             ┌───────────────────────┐
-             │   ORIGINAL CONCEPT    │
-             │                       │
-             │      J A C K E R S    │
-             │                       │
-             │       UNLOCKED        │
-             └───────────────────────┘
-```
-
+<img src="./assets/cards.svg" width="100%" alt="Card Games: War, BlackJack and Jackers"> 
 </div>
 
 ---
@@ -221,17 +201,17 @@ MUSIC PROJECT
 
 <div align="center">
 
-<img height="170"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api?username=Anushka-hiyu&show_icons=true&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&ring_color=A855F7"
 alt="GitHub Stats">
 
-<img height="170"
+<img width="37%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-hiyu&layout=compact&hide_border=true&bg_color=07050D&title_color=A855F7&text_color=D8B4FE"
 alt="Top Languages">
 
 <br>
 
-<img
+<img width="70%"
 src="https://streak-stats.demolab.com?user=Anushka-hiyu&hide_border=true&background=07050D&ring=A855F7&fire=A855F7&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=F3E8FF&sideNums=F3E8FF&dates=8B7A9E"
 alt="GitHub Streak">
 
@@ -252,8 +232,6 @@ alt="GitHub Streak">
 <a href="https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR">
   <img src="https://img.shields.io/badge/▶_PLAY_LIKE_CRAZY-A855F7?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Like Crazy">
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://open.spotify.com/user/31g5ldsc5e36ymhujmg4t4gw43nu">
   <img src="https://img.shields.io/badge/OPEN_MY_SPOTIFY-120B1C?style=for-the-badge&logo=spotify&logoColor=D8B4FE" alt="My Spotify">
