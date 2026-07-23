@@ -1,0 +1,233 @@
+<svg
+  width="760"
+  height="150"
+  viewBox="0 0 760 150"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0712"/>
+      <stop offset="55%" stop-color="#08040D"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- BACKGROUND -->
+
+  <rect
+    x="1"
+    y="1"
+    width="758"
+    height="148"
+    rx="14"
+    fill="url(#panelBg)"
+    stroke="#A855F7"
+    stroke-width="2"
+  />
+
+  <rect
+    x="10"
+    y="10"
+    width="740"
+    height="130"
+    rx="10"
+    fill="none"
+    stroke="#5F3475"
+    stroke-width="1"
+    opacity="0.45"
+  />
+
+
+  <!-- TERMINAL DOTS -->
+
+  <circle cx="28" cy="27" r="4" fill="#A855F7"/>
+  <circle cx="44" cy="27" r="4" fill="#D8B4FE" opacity="0.75"/>
+  <circle cx="60" cy="27" r="4" fill="#76558C"/>
+
+
+  <!-- TOP LABEL -->
+
+  <text
+    x="380"
+    y="31"
+    text-anchor="middle"
+    fill="#76558C"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+    letter-spacing="2"
+  >
+    PLAYER // LOADOUT
+  </text>
+
+
+  <!-- ONLINE -->
+
+  <circle
+    cx="702"
+    cy="27"
+    r="3"
+    fill="#A855F7"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="713"
+    y="31"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="8"
+    font-weight="bold"
+  >
+    READY
+  </text>
+
+
+  <!-- DIVIDER -->
+
+  <line
+    x1="22"
+    y1="47"
+    x2="738"
+    y2="47"
+    stroke="#24132F"
+    stroke-width="1"
+  />
+
+
+  <!-- MAIN TITLE -->
+
+  <text
+    x="38"
+    y="79"
+    fill="#F3E8FF"
+    font-family="monospace"
+    font-size="18"
+    font-weight="bold"
+    letter-spacing="1"
+    filter="url(#softGlow)"
+  >
+    INVENTORY
+  </text>
+
+  <text
+    x="38"
+    y="101"
+    fill="#76558C"
+    font-family="monospace"
+    font-size="9"
+    letter-spacing="1"
+  >
+    EQUIPPED // DEVELOPMENT STACK
+  </text>
+
+
+  <!-- RIGHT SIDE MINI HUD -->
+
+  <rect
+    x="485"
+    y="66"
+    width="230"
+    height="42"
+    rx="6"
+    fill="#0D0712"
+    stroke="#5F3475"
+    stroke-width="1"
+  />
+
+  <text
+    x="500"
+    y="83"
+    fill="#A855F7"
+    font-family="monospace"
+    font-size="8"
+    font-weight="bold"
+    letter-spacing="1"
+  >
+    SLOTS
+  </text>
+
+  <rect
+    x="500"
+    y="92"
+    width="190"
+    height="4"
+    rx="2"
+    fill="#24132F"
+  />
+
+  <rect
+    x="500"
+    y="92"
+    width="190"
+    height="4"
+    rx="2"
+    fill="#A855F7"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="702"
+    y="99"
+    text-anchor="end"
+    fill="#D8B4FE"
+    font-family="monospace"
+    font-size="8"
+  >
+    FULL
+  </text>
+
+
+  <!-- BOTTOM STATUS -->
+
+  <circle
+    cx="40"
+    cy="124"
+    r="3"
+    fill="#A855F7"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="52"
+    y="128"
+    fill="#76558C"
+    font-family="monospace"
+    font-size="9"
+    letter-spacing="1"
+  >
+    LANG // WEB // SERVER // DATA // TOOLS
+  </text>
+
+  <text
+    x="720"
+    y="128"
+    text-anchor="end"
+    fill="#5F3475"
+    font-family="monospace"
+    font-size="9"
+  >
+    STATUS://EQUIPPED
+  </text>
+
+</svg>
