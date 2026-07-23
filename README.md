@@ -124,7 +124,11 @@
 
 <div align="center">
 
+<img src="./assets/purple-line.svg" width="100%">
+
 <img src="./assets/shinobu-banner.gif" width="100%">
+
+<img src="./assets/purple-line.svg" width="100%">
 
 </div>
 
