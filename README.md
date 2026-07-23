@@ -21,7 +21,7 @@
 
 <br><br>
 
-<code>PLAYER_01 // ONLINE</code>
+<code>ANUSHKA</code>
 
 </td>
 
