@@ -30,38 +30,42 @@
 
 </div>
 
----
-
-
+<br>
 
 <table>
 <tr>
 
 <td width="67%" valign="middle">
 
-```console
-anushka@github:~$ whoami
-CS student building across games,
-music, books., the web.. whatever I like..
-```
-```text
-INTERESTS    Web • Games • Music
-             Creative Development
-```
+<code>$ whoami</code>
+
+<br><br>
+
+CS student building whatever catches my interest - games, music, books and the web.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/WEB-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
+<img src="https://img.shields.io/badge/GAMES-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
+<img src="https://img.shields.io/badge/MUSIC-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
+<img src="https://img.shields.io/badge/CREATIVE_DEV-0D0712?style=flat-square&labelColor=0D0712&color=A855F7">
+
+<br><br>
+
+<sub>currently building // experimenting // figuring things out</sub>
+
 </td>
 
 <td width="33%" align="center" valign="middle">
 
 <img src="./assets/shinobu.gif" width="100%" alt="Shinobu">
 
-<br>
-
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
 
 ## `> INVENTORY`
